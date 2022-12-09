@@ -1,14 +1,14 @@
-### Dart Zone Max
-# Dictator
+### Dart Zone
+# Magnum X2 Superdrum
 
 ---photo here---
 
-155 FPS
+90 FPS
 
 ### Ammo Types:
 - [ ] Ballistic Ammo
-- [ ] Full Darts
-- [x] Short Darts
+- [x] Full Darts
+- [ ] Short Darts
 
 ### Fire Modes
 - [ ] Automatic

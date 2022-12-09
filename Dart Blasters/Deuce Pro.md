@@ -1,9 +1,9 @@
-### Dart Zone Max
-# Dictator
+### Adventure Force Tactical Strike
+# Deuce Pro
 
 ---photo here---
 
-155 FPS
+125 FPS 
 
 ### Ammo Types:
 - [ ] Ballistic Ammo

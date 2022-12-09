@@ -1,14 +1,14 @@
-### Dart Zone Max
-# Dictator
+### Rival
+# Saturn
 
 ---photo here---
 
-155 FPS
+90 FPS 
 
 ### Ammo Types:
-- [ ] Ballistic Ammo
+- [x] Ballistic Ammo
 - [ ] Full Darts
-- [x] Short Darts
+- [ ] Short Darts
 
 ### Fire Modes
 - [ ] Automatic
