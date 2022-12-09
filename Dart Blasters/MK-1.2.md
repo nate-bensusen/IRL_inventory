@@ -1,13 +1,13 @@
-### Dart Zone Max
-# Dictator
+### Dart Zone Pro-Series
+# MK-1.2
 
 ---photo here---
 
-155 FPS
+200 FPS
 
 ### Ammo Types:
 - [ ] Ballistic Ammo
-- [ ] Full Darts
+- [x] Full Darts
 - [x] Short Darts
 
 ### Fire Modes

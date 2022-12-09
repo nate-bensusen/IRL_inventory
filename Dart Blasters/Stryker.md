@@ -1,13 +1,13 @@
 ### Dart Zone Max
-# Dictator
+# Stryker
 
 ---photo here---
 
-155 FPS
+145 FPS 
 
 ### Ammo Types:
 - [ ] Ballistic Ammo
-- [ ] Full Darts
+- [x] Full Darts
 - [x] Short Darts
 
 ### Fire Modes
