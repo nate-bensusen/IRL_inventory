@@ -1,6 +1,6 @@
 
 
-## Boker Plus
+### Boker Plus
 
 USB OTF Automatic Knife Purple Aluminum (1.7" Black SW)
 
@@ -9,19 +9,19 @@ Papillon Butterfly Knife Stainless Steel (4.1" SW)
 Papillon Trainer Butterfly Knife Stainless Steel (4.1" SW)
 
 
-## Buck
+### Buck
 
 305 Lancer Dual
 
 
-## CIVIVI 
+### CIVIVI 
 
 Scintilla BHQ GAW Knife
 
 
 
 
-## Cold Steel 
+### Cold Steel 
 
 Bowie Blade Bushman Knife + Sheath & Fire Steel (7" Black)
 
@@ -29,7 +29,7 @@ Bowie Blade Bushman Knife + Sheath & Fire Steel (7" Black)
 
 
 
-## Condor Tool & Knife
+### Condor Tool & Knife
 
 Australian Army Machete, 12-7/8in
 
@@ -44,19 +44,19 @@ Primitive Bush Dagger
 Yoshimi Machete
 
 
-## CRKT 
+### CRKT 
 
 Minimalist Bowie - Cthulhu Artwork, Glow-in-the-Dark Handle
 
 Daktyl EDC 
 
 
-## Flexcut
+### Flexcut
 
 Tri-Jack Pro
 
 
-## Gerber
+### Gerber
 
 Principle
 
@@ -66,40 +66,40 @@ Key Note Compact Keychain Knife, 1 Inch blade, Black
 
 
 
-## Glidr
+### Glidr
 
 Antarctic Cotton Candy Balisong Butterfly Trainer 4.8"
 
-## JEO-TEC
+### JEO-TEC
 
 Nº19 Bushcraft Survival Hunting
 
-## KA-BAR
+### KA-BAR
 
 Becker BK2
 
 Becker BK-10
 
 
-## Kershaw
+### Kershaw
 
 Lucha Balisong Butterfly Knife Stainless Steel (4.5" Stonewash)
 
 Pub - Blue 1.6 Inch 8Cr13MoV Stonewash (Includes a Screwdriver Tip, Pry Bar)
 
 
-## Krudo Knives 
+### Krudo Knives 
 
 FLEA DT Fixed Blade Keychain Neck Knife 1.425"
 
 
 
-## LEATHERMAN
+### LEATHERMAN
 
 Skeletool CX
 
 
-## Morakniv
+### Morakniv
 
 Eldris - Red, 2.2 Inch
 
@@ -122,12 +122,12 @@ Companion
 Craftline Robust
 
 
-## Old Timer 
+### Old Timer 
 
 24OT Splinter Carvin' Traditional
 
 
-## Ontario
+### Ontario
 
 Black Bird SK-4
 
@@ -139,23 +139,23 @@ Military Machete 18"
 
 Traveler Slip Joint Knife Purple Plastic (2.25" Satin)
 
-## Opinel
+### Opinel
 
 Colorama Series No. 7 - Purple
 
-## Steel Will
+### Steel Will
 
 Druid Mini 205
 
 Druid Mini 265
 
-## Svord 
+### Svord 
 
 Peasant - Pink
 
 
 
-## Terävä
+### Terävä
 
 Skrama 240
 
@@ -170,12 +170,12 @@ Jääkäripuukko 110
 Jääkäripuukko 85
 
 
-## Tojiro
+### Tojiro
 
 Shirogami Steel Grinding Finished Santoku Knife 165mm
 
 
-## Victorinox
+### Victorinox
 
 Classic SD Swiss Army Knife - Blade HQ Mermaid Exclusive
 
