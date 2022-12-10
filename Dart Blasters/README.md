@@ -14,7 +14,7 @@
 ||[Magnum X2](MagnumX2.md)|90|--|Full Darts|Spring|Single Pump|
 ||Dart Zone Max
 ||[Dictator](Dictator.md)|155|--|Half Darts|Spring|Single Pump|
-||[Stryker](Stryker.md)|145|--|Half Darts|Spring|Single Pump|
+||[Stryker](Stryker.md)|145|--|Full Darts, Half Darts|Spring|Single Pump|
 ||[Tomcat](Tomcat.md)|165|--|Half Darts|Spring|Single Pump|
 ||Dart Zone Pro
 ||[MK-1.2](MK-1.2.md)|200|--|Full Darts, Half Darts|Spring|Single Pump|
