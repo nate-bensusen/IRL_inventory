@@ -20,12 +20,17 @@
 ||[MK-1.2](MK-1.2.md)|200|--|Full Darts, Half Darts|Spring|Single Pump|
 ||[MK-2](MK-2.md)|120|--|Half Darts|Spring|Single Pump|
 ||[MK-2.1](MK-2.1.md)|150|--|Half Darts|Spring|Single Pump|
-||[MK-3](MK-3.md)|150|6 AA|Full Darts, Half Darts|Flywheel|Automatic, Semi-automatic|
+||[MK-3](MK-3.md)|150|8 AA|Full Darts, Half Darts|Flywheel|Automatic, Semi-automatic|
+
 # Nerf
+
 |Photo|Blaster|FPS|Batteries|Ammo|Propulsion|Fire Mode|
 |:-:|:-|:-:|:-:|:-:|:-:|:-:|
 ||Rival|
 ||[Saturn](Saturn.md)|90|--|Ballistic Ammo|Spring|Single Pump|
 
 # Other
-[Lizzie](Gecko-Tovol%20Zerky.md)
+
+|Photo|Blaster|FPS|Batteries|Ammo|Propulsion|Fire Mode|
+|:-:|:-|:-:|:-:|:-:|:-:|:-:|
+||[Lizzie](Gecko-Tovol%20Zerky.md)|125?|--|Half Darts|Spring|Single Pump|
