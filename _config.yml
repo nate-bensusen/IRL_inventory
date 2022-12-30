@@ -4,4 +4,4 @@ plugins:
 - jekyll-remote-theme
 
 url: https://nate-bensusen.github.io
-baseurl: /IRL_inventory/
+baseurl: /IRL_inventory
