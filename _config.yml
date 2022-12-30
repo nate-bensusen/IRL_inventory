@@ -1,7 +1,7 @@
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: alshedivat/al-folio@v0.3.5
 
 plugins:
 - jekyll-remote-theme
 
 url: https://nate-bensusen.github.io
-baseurl: /IRL_inventory/.
+baseurl: /IRL_inventory/
