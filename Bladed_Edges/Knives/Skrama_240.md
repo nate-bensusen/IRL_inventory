@@ -1,9 +1,11 @@
-# Skrama 240
+# Terava Skrama 240
+
+[JOE X](https://youtu.be/GT_jHvgT_cE)
 
 (First - Molded Handle)
 
-Chipped tip - need to resharpen and slightly reprofile front.
+Dec 20-30? - Chipped tip - need to resharpen and slightly reprofile front.
 
 (Second - Bare Tang)
 
-Starting paracord wrap
+Dec 1? - Starting paracord wrap
