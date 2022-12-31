@@ -1,8 +1,8 @@
-
+# Knives
 
 ### Boker Plus
 
-USB OTF Automatic Knife Purple Aluminum (1.7" Black SW)
+[USB OTF Automatic Knife Purple Aluminum (1.7" Black SW)](Boker_OTF_Purple.md)
 
 Papillon Butterfly Knife Stainless Steel (4.1" SW)
 
