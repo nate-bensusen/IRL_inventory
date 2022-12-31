@@ -1,4 +1,4 @@
-# model name
+# Scout Hatchet
 ## Condor Tool & Knife
 weight
 size
