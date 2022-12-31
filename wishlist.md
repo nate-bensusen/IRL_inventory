@@ -24,3 +24,7 @@ Precision Sports
 Meditation
 
 Books
+
+Camping
+
+Clothes
