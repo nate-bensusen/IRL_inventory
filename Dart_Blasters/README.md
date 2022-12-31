@@ -1,4 +1,6 @@
-# Dart Zone
+# Dart Blasters
+
+## Dart Zone
 
 |Photo|Blaster|FPS|Batteries|Ammo|Propulsion|Fire Mode|
 |:-:|:-|:-:|:-:|:-:|:-:|:-:|
@@ -22,14 +24,14 @@
 ||[MK-2.1](MK-2.1.md)|150|--|Half Darts|Spring|Single Pump|
 ||[MK-3](MK-3.md)|150|8 AA|Full Darts, Half Darts|Flywheel|Automatic, Semi-automatic|
 
-# Nerf
+## Nerf
 
 |Photo|Blaster|FPS|Batteries|Ammo|Propulsion|Fire Mode|
 |:-:|:-|:-:|:-:|:-:|:-:|:-:|
 ||Rival|
 ||[Saturn](Saturn.md)|90|--|Ballistic Ammo|Spring|Single Pump|
 
-# Other
+## Other
 
 |Photo|Blaster|FPS|Batteries|Ammo|Propulsion|Fire Mode|
 |:-:|:-|:-:|:-:|:-:|:-:|:-:|
