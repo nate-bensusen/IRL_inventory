@@ -25,11 +25,11 @@ Meditation
 
 Books
 
-Hardy Boys Collection
+Hardy Boys Collection (Hard Cover)
 
 link to Hardy Boys books in books section in the future. Have list highlighting unowned
 
-Nancy Drew Collection
+Nancy Drew Collection (Hard Cover)
 
 link to Nancy Drew books in books section in the future. Have list highlighting unowned
 
