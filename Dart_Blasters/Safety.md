@@ -1,3 +1,7 @@
+# Safety
+
 Glasses
+
 Goggles
+
 Masks

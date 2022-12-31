@@ -1,5 +1,5 @@
-### Adventure Force
 # Spectrum
+### Adventure Force
 
 Green one, under Adventure Force, before they made red Dart Zone Spectrums
 
