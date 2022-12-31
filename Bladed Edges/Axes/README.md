@@ -1,3 +1,9 @@
+# Axes
+
+## info
+
+Each individual page will have more details and a journal of it's life
+
 ### Council Tool
 
 Council Tool Sport Utility 2 lbs. 18 inch Hudson Bay Axes
@@ -14,6 +20,8 @@ Council Tool Dayton Axe,4-3/4 in Edge,36 in L,Hickory
 
 Council Tool 3.5 lb Michigan Pattern Double Bit Axe with 36 Inch Straight Wooden Handle
 
+
+### Condor Tool & Knife
 
 ### Hachas Jauregi
 
