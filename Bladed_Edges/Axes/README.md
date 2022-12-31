@@ -4,6 +4,8 @@
 
 Each individual page will have more details and a journal of it's life
 
+how I soak my handles in Pure Raw Linseed Oil
+
 ### Council Tool
 
 Council Tool Sport Utility 2 lbs. 18 inch Hudson Bay Axes
