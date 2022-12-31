@@ -1,3 +1,0 @@
-Glasses
-Goggles
-Masks
