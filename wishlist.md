@@ -11,8 +11,16 @@ Until I completely convert it to an agnostic list, here's what we have.
 
 -Future sections-
 
+(With reasons. Typed out in sentences.)
+
 Sewing
 
 Sharpening
 
 Sharp Things
+
+Precision Sports
+
+Meditation
+
+Books

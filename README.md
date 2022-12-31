@@ -26,3 +26,5 @@ The biggest use case I can imagine is family or friend wants to borrow something
 - [Tents](Tents/README.md)
   - [Hot Tents](Tents/Hot_Tents/README.md)
     - [Stoves](Tents/Hot_Tents/Stoves/README.md)
+
+[wishlist](wishlist.md)
