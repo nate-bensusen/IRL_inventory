@@ -25,6 +25,14 @@ Meditation
 
 Books
 
+Hardy Boys Collection
+
+link to Hardy Boys books in books section in the future. Have list highlighting unowned
+
+Nancy Drew Collection
+
+link to Nancy Drew books in books section in the future. Have list highlighting unowned
+
 Camping
 
 Clothes
