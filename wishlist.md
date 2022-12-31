@@ -4,6 +4,12 @@ Historically I've been hard to find gifts for. Here's a list I thought I'd make 
 
 Until I completely convert it to an agnostic list, here's what we have.
 
+## Needs
+
+--
+
+## Wants
+
 - [Amazon](https://www.amazon.com/hz/wishlist/ls/2S28WPVUQTF2N?ref_=wl_share)
 - [Blade HQ](https://www.bladehq.com/user_list/public/eee9dd41f34a67ad18dd364dc2c3e6a4)
 
@@ -17,8 +23,8 @@ Until I completely convert it to an agnostic list, here's what we have.
 - Sharp Things
 - Precision Sports
 - Meditation
-- ## Books
-- [Hardy Boys Collection](Books/Hardy_Boys.md)
-- [Nancy Drew Collection](Books/Nancy_Drew.md)
+- Books
+  - [Hardy Boys Collection](Books/Hardy_Boys.md)
+  - [Nancy Drew Collection](Books/Nancy_Drew.md)
 - Camping
 - Clothes
