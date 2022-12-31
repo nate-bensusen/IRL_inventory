@@ -1,6 +1,6 @@
-# Terava Skrama 240
+# Terävä Skrama 240
 
-[JOE X](https://youtu.be/GT_jHvgT_cE)
+[JOE X -- Terävä Skrama 240 CARBON STEEL - UNTIL IT BREAKS - DESTRUCTION TEST- KNIFE TEST EXTREME](https://youtu.be/GT_jHvgT_cE)
 
 (First - Molded Handle)
 
