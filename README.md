@@ -12,6 +12,7 @@ I plan to link here for reference from a variety of places.
 The biggest use case I can imagine is family or friend wants to borrow something or you want to buy something similar.
 
 - [Backpacks](Backpacks/README.md)
+- [Books](Books/README.md)
 - [Bladed Edges](Bladed_Edges/README.md)
   - [Axes](Bladed_Edges/Axes/README.md)
   - [Chisels](Bladed_Edges/Chisels/README.md)
