@@ -4,35 +4,27 @@ Historically I've been hard to find gifts for. Here's a list I thought I'd make 
 
 Until I completely convert it to an agnostic list, here's what we have.
 
-[Amazon](https://www.amazon.com/hz/wishlist/ls/2S28WPVUQTF2N?ref_=wl_share)
+## Needs
 
-[Blade HQ](https://www.bladehq.com/user_list/public/eee9dd41f34a67ad18dd364dc2c3e6a4)
+--
+
+## Wants
+
+- [Amazon](https://www.amazon.com/hz/wishlist/ls/2S28WPVUQTF2N?ref_=wl_share)
+- [Blade HQ](https://www.bladehq.com/user_list/public/eee9dd41f34a67ad18dd364dc2c3e6a4)
 
 
--Future sections-
+## -Future sections-
 
 (With reasons. Typed out in sentences.)
 
-Sewing
-
-Sharpening
-
-Sharp Things
-
-Precision Sports
-
-Meditation
-
-Books
-
-Hardy Boys Collection
-
-link to Hardy Boys books in books section in the future. Have list highlighting unowned
-
-Nancy Drew Collection
-
-link to Nancy Drew books in books section in the future. Have list highlighting unowned
-
-Camping
-
-Clothes
+- Sewing
+- Sharpening
+- Sharp Things
+- Precision Sports
+- Meditation
+- Books
+  - [Hardy Boys Collection](Books/Hardy_Boys.md)
+  - [Nancy Drew Collection](Books/Nancy_Drew.md)
+- Camping
+- Clothes
