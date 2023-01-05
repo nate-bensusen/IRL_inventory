@@ -24,6 +24,10 @@ Until I completely convert it to an agnostic list, here's what we have.
 - Precision Sports
 - Meditation
 - Books
+  - 8 Minute Meditation Expanded: Quiet Your Mind. Change Your Life. - by Victor Davich
+  - The Backyard Adventurer - by Beau Miles
+  - OR
+  - The Backyard Adventurer: International Edition - by Beau Miles
   - [Hardy Boys Collection](Books/Hardy_Boys.md)
   - [Nancy Drew Collection](Books/Nancy_Drew.md)
 - Camping
